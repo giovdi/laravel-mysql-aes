@@ -1,5 +1,5 @@
 {
-	"name": "giovdi/aes-mysql",
+	"name": "giovdi/laravel-mysql-aes",
 	"description": "AES encryption for MySQL in Laravel 5",
 	"version": "0.0.1",
 	"autoload": {
