@@ -1,7 +1,7 @@
 {
 	"name": "giovdi/laravel-mysql-aes",
 	"description": "AES encryption for MySQL in Laravel 5",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"autoload": {
 		"psr-4": {
 			"Pixelstyle\\AesMysql\\": "src"
