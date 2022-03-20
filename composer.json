@@ -9,6 +9,6 @@
 	},
 	"require": {
 		"php": ">=5.2",
-		"laravel/framework": "^5.3"
+		"laravel/framework": ">=5.3"
 	}
 }
